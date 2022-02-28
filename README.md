@@ -1,7 +1,7 @@
 ### Helloou, me chamo Emilly!
 
 - Estou inciando minha tragetoria no mundo da programação. Atualmente, aprendendo logica de programação utilizando o Portugol Studio.
-- Pronouns: Ela/Dela
+- Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/emsnascimento">

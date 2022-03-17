@@ -1,6 +1,6 @@
 ### Helloou, me chamo Emilly!
 
-- Estou inciando minha tragetoria no mundo da programação. Atualmente, aprendendo logica de programação utilizando o Portugol Studio.
+- Estou inciando minha tragetoria no mundo da programação. Atualmente, aprendendo logica de programação com JavaScript
 - Pronomes: Ela/Dela
 
 <div align="center">

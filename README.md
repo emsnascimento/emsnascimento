@@ -1,14 +1,9 @@
 ### Helloou, me chamo Emilly!
 
-- Estou inciando minha tragetoria no mundo da programação. Atualmente, aprendendo logica de programação com JavaScript
 - Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/emsnascimento">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=emsnascimento&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<div>
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emsnascimento&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
   
   ##
   
